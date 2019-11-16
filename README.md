@@ -1,7 +1,8 @@
 # A star wars
 
 A-star-wars is a Java Artificial Intelligence project using an A* algorithm with a graphic and audio Star Wars theme. See demo [here](https://www.youtube.com/watch?v=HuzCNBXjQ9w). 
-![Maze example](images/level1.jpg)
+
+<img src="images/level1.jpg" width="500" height="350" />
 
 ### Context 
 
